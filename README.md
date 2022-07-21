@@ -1,6 +1,6 @@
 # MSI-PRO-Z690-A-Wi-Fi-DDR4-i5-12600KF-Hackintosh-EFI
 
-CPU：Intel i5 12600KF
+CPU：Intel i5 12600KF<br />
 主板：MSI PRO Z690-A Wi-Fi DDR4
 内存：威刚 D50 龙耀 2x8G 3600
 硬盘：WD BLACK SN770 1TB
